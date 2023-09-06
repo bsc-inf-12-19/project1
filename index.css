@@ -96,3 +96,6 @@ a.active,a:hover{
         left:0;
      }
 }
+label{
+    padding-top: 3%;
+}
